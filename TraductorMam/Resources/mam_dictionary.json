@@ -1,0 +1,543 @@
+[
+  { "mam": "B´an kuxh", "es": ["Hola"], "en": ["Hello"] },
+  { "mam": "utz iwon", "es": ["Bienvenidos"], "en": ["Welcome"] },
+  { "mam": "B’an kuxh, utz iwon", "es": ["Hola, bienvenidos"], "en": ["Hello, welcome"] },
+
+  {
+    "mam": "tz´i'","es": ["perro", "el perro", "un perro", "este perro", "aquel perro"],"en": ["dog", "the dog", "a dog", "this dog", "that dog"]
+  },
+  {
+    "mam": "och’",
+    "es": ["casa", "la casa", "una casa", "esta casa", "aquella casa"],
+    "en": ["house", "the house", "a house", "this house", "that house"]
+  },
+  {
+    "mam": "ha’",
+    "es": ["agua", "el agua", "algo de agua", "este agua fresca", "vital líquido"],
+    "en": ["water", "the water", "some water", "this fresh water", "vital liquid"]
+  },
+  {
+    "mam": "nan",
+    "es": ["madre", "mi madre", "la madre", "mamá", "mi mamá"],
+    "en": ["mother", "my mother", "the mother", "mom", "my mom"]
+  },
+  {
+    "mam": "tat",
+    "es": ["padre", "mi padre", "el padre", "papá", "mi papá"],
+    "en": ["father", "my father", "the father", "dad", "my dad"]
+  },
+  {
+    "mam": "wa’",
+    "es": ["comer", "ethstoy comiendo", "voy a comer", "suelo comer", "he comido"],
+    "en": ["eat", "I am eating", "I am going to eat", "I usually eat", "I have eaten"]
+  },
+  {
+    "mam": "ch’um",
+    "es": ["beber", "estoy bebiendo", "voy a beber", "suelo beber", "he bebido"],
+    "en": ["drink", "I am drinking", "I am going to drink", "I usually drink", "I have drunk"]
+  },
+  {
+    "mam": "b’e’",
+    "es": ["caminar", "estoy caminando", "voy a caminar", "suelo caminar", "he caminado"],
+    "en": ["walk", "I am walking", "I am going to walk", "I usually walk", "I have walked"]
+  },
+  {
+    "mam": "way",
+    "es": ["dormir", "estoy durmiendo", "voy a dormir", "suelo dormir", "he dormido"],
+    "en": ["sleep", "I am sleeping", "I am going to sleep", "I usually sleep", "I have slept"]
+  },
+  {
+    "mam": "tz’ikin",
+    "es": ["correr", "estoy corriendo", "voy a correr", "suelo correr", "he corrido", "pequeño", "muy pequeño", "chico", "diminuto", "reducido"],
+    "en": ["run", "I am running", "I am going to run", "I usually run", "I have run", "small", "very small", "little", "tiny", "reduced"]
+  },
+  {
+    "mam": "noj",
+    "es": ["grande", "muy grande", "amplio", "espacioso", "enorme"],
+    "en": ["big", "very big", "wide", "spacious", "huge"]
+  },
+  {
+    "mam": "utz",
+    "es": ["bueno", "muy bueno", "de buena calidad", "agradable", "positivo"],
+    "en": ["good", "very good", "of good quality", "pleasant", "positive"]
+  },
+  {
+    "mam": "k’ax",
+    "es": ["malo", "muy malo", "de mala calidad", "desfavorable", "negativo"],
+    "en": ["bad", "very bad", "of bad quality", "unfavorable", "negative"]
+  },
+  {
+    "mam": "kak’",
+    "es": ["nuevo", "muy nuevo", "reciente", "acabo de estrenarlo", "moderno"],
+    "en": ["new", "very new", "recent", "I just premiered it", "modern"]
+  },
+  {
+    "mam": "jun",
+    "es": ["uno", "un", "único", "número uno", "primer"],
+    "en": ["one", "a", "unique", "number one", "first"]
+  },
+  {
+    "mam": "kab’",
+    "es": ["dos", "par", "pareja", "doble", "número dos"],
+    "en": ["two", "pair", "couple", "double", "number two"]
+  },
+  {
+    "mam": "oxib’",
+    "es": ["tres", "número tres", "tres unidades", "triple", "tercero"],
+    "en": ["three", "number three", "three units", "triple", "third"]
+  },
+  {
+    "mam": "kajib’",
+    "es": ["cuatro", "número cuatro", "cuatro unidades", "cuádruple", "cuarto"],
+    "en": ["four", "number four", "four units", "quadruple", "fourth"]
+  },
+  {
+    "mam": "jo’b",
+    "es": ["cinco", "número cinco", "cinco unidades", "quinteto", "quinto"],
+    "en": ["five", "number five", "five units", "quintet", "fifth"]
+  },
+  {
+    "mam": "wa’j",
+    "es": ["aquí", "aquí mismo", "en este lugar", "justo aquí", "muy cerca"],
+    "en": ["here", "right here", "in this place", "just here", "very close"]
+  },
+  {
+    "mam": "oj",
+    "es": ["allá", "por allá", "en aquel lugar", "a lo lejos", "más allá"],
+    "en": ["there", "over there", "in that place", "far away", "beyond"]
+  },
+  {
+    "mam": "juntaq",
+    "es": ["siempre", "en todo momento", "constantemente", "sin falta", "de forma habitual"],
+    "en": ["always", "at all times", "constantly", "without fail", "habitually"]
+  },
+  {
+    "mam": "majun",
+    "es": ["nunca", "jamás", "en ningún momento", "de ninguna manera", "ni una vez"],
+    "en": ["never", "never ever", "at no time", "in no way", "not once"]
+  },
+  {
+    "mam": "junankil",
+    "es": ["temprano", "muy temprano", "a primera hora", "al amanecer", "antes de tiempo"],
+    "en": ["early", "very early", "first thing", "at dawn", "ahead of time"]
+  },
+
+  {
+    "mam": "Tz’i’ way ta och’",
+    "es": ["El perro duerme en la casa", "El can descansa en el hogar", "El perro está durmiendo en la vivienda", "El perro reposa dentro de la casa", "El perro duerme dentro del hogar"],
+    "en": ["The dog sleeps in the house", "The dog rests in the home", "The dog is sleeping in the dwelling", "The dog rests inside the house", "The dog sleeps inside the home"]
+  },
+  {
+    "mam": "Ha’ k’ax",
+    "es": ["El agua es fría", "El agua está fría", "El líquido está helado", "El vital líquido es fresco", "El agua está gélida"],
+    "en": ["The water is cold", "The water is cold", "The liquid is frozen", "The vital liquid is fresh", "The water is frigid"]
+  },
+  { "mam": "Nan k’ul b’ej", "es": ["Mi madre cocina frijoles"], "en": ["My mother cooks beans"] },
+  { "mam": "Tat k’anel ta jolomil", "es": ["El padre trabaja en el campo"], "en": ["The father works in the field"] },
+
+  {
+    "mam": "Och’ noj",
+    "es": ["La casa es grande", "La vivienda es amplia", "El hogar es espacioso", "La morada es grande", "La casa tiene mucho espacio"],
+    "en": ["The house is big", "The dwelling is wide", "The home is spacious", "The abode is big", "The house has a lot of space"]
+  },
+  {
+    "mam": "Tz’i’ tz’ikin",
+    "es": ["El perro es pequeño", "El can es chico", "El perro es diminuto", "El perrito es pequeño", "El perro es de talla chica"],
+    "en": ["The dog is small", "The dog is little", "The dog is tiny", "The puppy is small", "The dog is small size"]
+  },
+
+  { "mam": "Wa’ utz", "es": ["La comida está buena"], "en": ["The food is good"] },
+  { "mam": "B’e’ k’ax", "es": ["El camino es malo"], "en": ["The road is bad"] },
+  { "mam": "Wuj kak’", "es": ["El libro es nuevo"], "en": ["The book is new"] },
+
+  {
+    "mam": "In wa’ jun tortilla",
+    "es": ["Yo como tortillas", "Estoy comiendo tortillas", "Acostumbro comer tortillas", "Voy a comer tortillas", "He comido tortillas"],
+    "en": ["I eat tortillas", "I am eating tortillas", "I usually eat tortillas", "I am going to eat tortillas", "I have eaten tortillas"]
+  },
+  {
+    "mam": "Are’ ch’um ha’",
+    "es": ["Él bebe agua", "Está bebiendo agua", "Acostumbra beber agua", "Ha bebido agua", "Va a beber agua"],
+    "en": ["He drinks water", "He is drinking water", "He usually drinks water", "He has drunk water", "He is going to drink water"]
+  },
+
+  { "mam": "Qat b’e’ ta tinamit", "es": ["Nosotros caminamos al pueblo"], "en": ["We walk to the town"] },
+  { "mam": "E’ tz’ikin ta jolomil", "es": ["Ellos corren en el campo"], "en": ["They run in the field"] },
+  { "mam": "At way ta junan", "es": ["Tú duermes temprano"], "en": ["You sleep early"] },
+
+  {
+    "mam": "In k’olik jun q’ix",
+    "es": ["Tengo un hermano", "Cuento con un hermano", "Poseo un hermano", "Hay un hermano en mi familia", "Dispongo de un hermano"],
+    "en": ["I have a brother", "I count with a brother", "I possess a brother", "There is a brother in my family", "I have a brother available"]
+  },
+  {
+    "mam": "Are’ k’olik kab’ och’",
+    "es": ["Ella tiene dos casas", "Cuenta con dos viviendas", "Posee un par de casas", "Tiene dos hogares", "Dispone de dos residencias"],
+    "en": ["She has two houses", "She has two dwellings", "She possesses a pair of houses", "She has two homes", "She has two residences available"]
+  },
+
+  { "mam": "Qato’ oxib’", "es": ["Nosotros somos tres"], "en": ["We are three"] },
+  { "mam": "In loq’aj kajib’ ak’ach", "es": ["Compré cuatro gallinas"], "en": ["I bought four chickens"] },
+  { "mam": "E’ k’olik jo’b alaq’", "es": ["Ellos tienen cinco hijos"], "en": ["They have five children"] },
+
+  { "mam": "Juntaq in q’anej ta xk’ul", "es": ["Siempre estudio en la tarde"], "en": ["I always study in the afternoon"] },
+  { "mam": "Majun in tzij", "es": ["Nunca miento"], "en": ["I never lie"] },
+  { "mam": "Are’ b’an junankil", "es": ["Él llega temprano"], "en": ["He arrives early"] },
+  { "mam": "Qato’ wa’j", "es": ["Estamos aquí"], "en": ["We are here"] },
+
+  {
+    "mam": "Tz’ikin ch’och’ oj",
+    "es": ["La fiesta será allá", "La fiesta tendrá lugar allá", "La fiesta se hará por allá", "La fiesta será en aquel lugar", "La fiesta se realizará más allá"],
+    "en": ["The party will be there", "The party will take place there", "The party will be over there", "The party will be in that place", "The party will be held further away"]
+  },
+
+  {
+    "mam": "Nb’inchin xu’j wab’j tuja",
+    "es": ["La mujer cocina en la cocina"],
+    "en": ["The woman cooks in the kitchen"]
+  },
+  {
+    "mam": "Nb’inchan xu’j wab’j tuja",
+    "es": ["La mujer cocina en la cocina"],
+    "en": ["The woman cooks in the kitchen"]
+  },
+  {
+    "mam": "In aq’unan xu’j tuja",
+    "es": ["La mujer cocina en la cocina"],
+    "en": ["The woman cooks in the kitchen"]
+  },
+  {
+    "mam": "Nb’inchan xu’j t-xilel wab’j",
+    "es": ["La mujer cocina en la cocina"],
+    "en": ["The woman cooks in the kitchen"]
+  },
+
+  {
+    "mam": "Nschan k’wal twi’ pe’n",
+    "es": ["El niño juega en el patio"],
+    "en": ["The child plays in the yard"]
+  },
+  {
+    "mam": "Nrinin k’wal twi’ pe’n",
+    "es": ["El niño juega en el patio"],
+    "en": ["The child plays in the yard"]
+  },
+  {
+    "mam": "Kukx nschan k’wal twi’ pe’n",
+    "es": ["El niño juega en el patio"],
+    "en": ["The child plays in the yard"]
+  },
+  {
+    "mam": "N-achin k’wal twi’ pe’n",
+    "es": ["El niño juega en el patio"],
+    "en": ["The child plays in the yard"]
+  },
+
+  {
+    "mam": "Nqopin qman q’ij twitz kya’j",
+    "es": ["El sol brilla en el cielo"],
+    "en": ["The sun shines in the sky"]
+  },
+  {
+    "mam": "Nk’ant qman q’ij twitz kya’j",
+    "es": ["El sol brilla en el cielo"],
+    "en": ["The sun shines in the sky"]
+  },
+  {
+    "mam": "Spiky’li twitz kya’j tu’n qman q’ij",
+    "es": ["El sol brilla en el cielo"],
+    "en": ["The sun shines in the sky"]
+  },
+  {
+    "mam": "Njatz qman q’ij twitz kya’j",
+    "es": ["El sol brilla en el cielo"],
+    "en": ["The sun shines in the sky"]
+  },
+
+  {
+    "mam": "Tkub’ u’jb’il tib’aj meẍ",
+    "es": ["El libro está en la mesa"],
+    "en": ["The book is on the table"]
+  },
+  {
+    "mam": "N-ojlan u’jb’il tib’aj meẍ",
+    "es": ["El libro está en la mesa"],
+    "en": ["The book is on the table"]
+  },
+  {
+    "mam": "Kukx at u’jb’il tib’aj meẍ",
+    "es": ["El libro está en la mesa"],
+    "en": ["The book is on the table"]
+  },
+  {
+    "mam": "Majx at u’jb’il tib’aj meẍ",
+    "es": ["El libro está en la mesa"],
+    "en": ["The book is on the table"]
+  },
+
+  {
+    "mam": "Ntzalaj q’a",
+    "es": ["El niño es feliz"],
+    "en": ["The child is happy"]
+  },
+  {
+    "mam": "Ntzalajxix q’a",
+    "es": ["El niño es feliz"],
+    "en": ["The child is happy"]
+  },
+  {
+    "mam": "Nqe tk’u’j q’a",
+    "es": ["El niño es feliz"],
+    "en": ["The child is happy"]
+  },
+  {
+    "mam": "At tzlajb’il toj tk’uj q’a",
+    "es": ["El niño es feliz"],
+    "en": ["The child is happy"]
+  },
+
+  {
+    "mam": "Nim toj ja",
+    "es": ["La casa es grande"],
+    "en": ["The house is big"]
+  },
+  {
+    "mam": "Nimxix ja",
+    "es": ["La casa es grande"],
+    "en": ["The house is big"]
+  },
+  {
+    "mam": "Matij ja",
+    "es": ["La casa es grande"],
+    "en": ["The house is big"]
+  },
+
+  {
+    "mam": "Tal tx’yan",
+    "es": ["El perro es pequeño"],
+    "en": ["The dog is small"]
+  },
+  {
+    "mam": "Nuch tx’yan",
+    "es": ["El perro es pequeño"],
+    "en": ["The dog is small"]
+  },
+  {
+    "mam": "B’otz tx’yan",
+    "es": ["El perro es pequeño"],
+    "en": ["The dog is small"]
+  },
+  {
+    "mam": "B’otz twe’ tx’yan",
+    "es": ["El perro es pequeño"],
+    "en": ["The dog is small"]
+  },
+  {
+    "mam": "Nuch twe' tx’yan","es": ["El perro es pequeño"],"en": ["The dog is small"]
+  },
+
+  {
+    "mam": "Tb’anil b’ech","es": ["La flor es bonita", "La flor es hermosa"],"en": ["The flower is pretty", "The flower is beautiful"]
+  },
+  {
+    "mam": "Ponixix b’ech",
+    "es": ["La flor es bonita"],
+    "en": ["The flower is pretty"]
+  },
+  {
+    "mam": "Tb’anilxix b’ech",
+    "es": ["La flor es bonita"],
+    "en": ["The flower is pretty"]
+  },
+  {
+    "mam": "Tb’anil tten b’ech",
+    "es": ["La flor es bonita"],
+    "en": ["The flower is pretty"]
+  },
+  {
+    "mam": "Tb’anil ka’yin b’ech","es": ["La flor es bonita"],"en": ["The flower is pretty"]
+  },
+
+  {
+    "mam": "At tx’yan toj ja","es": ["El perro está en la casa"],"en": ["The dog is in the house"]
+  },
+  {
+    "mam": "Ma kyaj ten tx’yan toj ja","es": ["El perro está en la casa"],"en": ["The dog is in the house"]
+  },
+  {
+    "mam": "Najli tx’yan toj ja",
+    "es": ["El perro está en la casa"],
+    "en": ["The dog is in the house"]
+  },
+  {
+    "mam": "Nkyaj ten tx’yan toj ja",
+    "es": ["El perro está en la casa"],
+    "en": ["The dog is in the house"]
+  },
+  
+  { "mam": "At wix tib’aj q’a’jtz", "es": ["El gato está en la silla"], "en": ["The cat is on the chair"] },
+  { "mam": "Nschan wix tib’aj q’a’jtz","es": ["El gato juega en la silla"], "en": ["The cat plays on the chair"] },
+  { "mam": "In ewin wix tib’aj q’a’jtz", "es": ["El gato se esconde en la silla"], "en": ["The cat hides on the chair"] },
+  { "mam": "Nku’tz t’ikyaj wix tib’aj q’a’jtz", "es": ["El gato salta de la silla"], "en": ["The cat jumps from the chair"] },
+  { "mam": "Nxi’ tka’yin wix q’a’jtz", "es": ["El gato observa la silla"], "en": ["The cat looks at the chair"] },
+
+  { "mam": "Nqopin qtxu xjaw", "es": ["La luna brilla"], "en": ["The moon shines"] },
+  { "mam": "Matij qtx xjaw", "es": ["La luna es grande"], "en": ["The moon is big"] },
+  { "mam": "Nimin qtxu xjaw", "es": ["La luna es alta"], "en": ["The moon is high"] },
+  { "mam": "Tb’anil ka’yin qtxu xjaw", "es": ["La luna es hermosa"], "en": ["The moon is beautiful"] },
+  { "mam": "Nyokyal qtxu xjaw twitz ky’aj", "es": ["La luna aparece en el cielo"], "en": ["The moon appears in the sky"] },
+
+  { "mam": "Nimin twitz nim a’", "es": ["El rio es ancho"], "en": ["The river is wide"] },
+  { "mam": "Ate’ kyiẍ toj nim a’", "es": ["El rio tiene peces"], "en": ["The river has fish"] },
+  { "mam": "Nimin t-xe nim a’", "es": ["El rio es profundo"], "en": ["The river is deep"] },
+  { "mam": "ẍnu’l twitz nim a’", "es": ["El rio esta limpio"], "en": ["The river is clean"] },
+  { "mam": "Tb’anil ka’yin nim a’", "es": ["El rio es hermoso"], "en": ["The river is beautiful"] },
+
+  { "mam": "Matij pintze", "es": ["La montaña es grande"], "en": ["The mountain is big"] },
+  { "mam": "Nim ab’j toj pintze", "es": ["La montaña es rocosa"], "en": ["The mountain is rocky"] },
+  { "mam": "Txa’nxix pintze", "es": ["La montaña es verde"], "en": ["The mountain is green"] },
+  { "mam": "At saqche’n toj pintze", "es": ["La montaña tiene nieve"], "en": ["The mountain has snow"] },
+  { "mam": "Tb’anil pintze", "es": ["La montaña es hermosa"], "en": ["The mountain is beautiful"] },
+
+  { "mam": "Q’an twitz jal", "es": ["El maíz es amarillo"], "en": ["The corn is yellow"] },
+  { "mam": "Nimin jal", "es": ["El maíz esta alto"], "en": ["The corn is tall"] },
+  { "mam": "Tb’anil i’ẍ", "es": ["El maíz es dulce"], "en": ["The corn is sweet"] },
+  { "mam": "Ma tijin i’ẍ", "es": ["El maíz esta maduro"], "en": ["The corn is ripe"] },
+  { "mam": "Tx’utxj jal", "es": ["El maíz es nutritivo"], "en": ["The corn is nutritious"] },
+
+  { "mam": "Nwan wakx", "es": ["La vaca come"], "en": ["The cow eats"] },
+  { "mam": "Nwatan wakx", "es": ["La vaca duerme"], "en": ["The cow sleeps"] },
+  { "mam": "Nk’wa’n wakx che’w a’", "es": ["La vaca bebe agua"], "en": ["The cow drinks water"] },
+  { "mam": "Nka’yin wakx", "es": ["La vaca mira"], "en": ["The cow looks"] },
+  { "mam": "Nb’et wakx", "es": ["La vaca camina"], "en": ["The cow walks"] },
+
+  { "mam": "Nlipin pich’", "es": ["El pájaro vuela"], "en": ["The bird flies"] },
+  { "mam": "Nkub’ paqe pich’", "es": ["El pájaro se posa"], "en": ["The bird lands"] },
+  { "mam": "Nka’yin pich’", "es": ["El pájaro observa"], "en": ["The bird observes"] },
+  { "mam": "Njayon pich’ twa’", "es": ["El pájaro busca comida"], "en": ["The bird looks for food"] },
+  { "mam": "In ojlan pich’", "es": ["El pájaro descansa"], "en": ["The bird rests"] },
+
+  { "mam": "Ntyukcha’n tib’ kan", "es": ["La serpiente se mueve"], "en": ["The snake moves"] },
+  { "mam": "Nimin tqine kan", "es": ["La serpiente es larga"], "en": ["The snake is long"] },
+  { "mam": "Noqx numli kan", "es": ["La serpiente esta tranquila"], "en": ["The snake is still"] },
+  { "mam": "Joqoqon tel kan", "es": ["La serpiente se arrastra"], "en": ["The snake crawls"] },
+  { "mam": "At kan toj b’ech", "es": ["La serpiente esta en el jardín"], "en": ["The snake is in the garden"] },
+
+  { "mam": "Nqoptz’aj tqan q’ij", "es": ["El sol brilla"], "en": ["The sun is shining"] },
+  { "mam": "Nq’anchalsin tqan q’ij", "es": ["El sol ilumina"], "en": ["The sun shines"] },
+  { "mam": "Kuw tan q’ij", "es": ["El sol es fuerte"], "en": ["The sun is strong"] },
+  { "mam": "Nku’x naj q’ij", "es": ["El sol se oculta"], "en": ["The sun sets"] },
+  { "mam": "Nqoptz’ajxix tqan q’ij", "es": ["El sol es brillante"], "en": ["The sun is bright"] },
+
+  { "mam": "Nqopin che’w", "es": ["La estrella brilla"], "en": ["The star shines"] },
+  { "mam": "Tal nuch che’w", "es": ["La estrella es pequeña"], "en": ["The star is small"] },
+  { "mam": "Tb’anil ka’yin che’w", "es": ["La estrella es hermosa"], "en": ["The star is beautiful"] },
+  { "mam": "Cheb’a nb’et che’w", "es": ["La estrella titila"], "en": ["The star twinkles"] },
+  { "mam": "Ntilk’aj che’w", "es": ["La estrella ilumina"], "en": ["The star illuminates"] },
+
+  { "mam": "Nxi’ b’et k’wal toj nim a’", "es": ["El niño camina al rio"], "en": ["The child walks to the river"] },
+  { "mam": "Nxi’ lipin k’wal toj nim a’", "es": ["El niño salta al rio"], "en": ["The child jumps to the river"] },
+  { "mam": "Nka’yin k’wal ti’j nim a’", "es": ["El niño mira el rio"], "en": ["The child looks at the river"] },
+  { "mam": "Nschan k’wal toj nim a’", "es": ["El niño juega en el rio"], "en": ["The child plays in the river"] },
+  { "mam": "Nka’yin k’wal ti’j nim a’", "es": ["El niño observa el rio"], "en": ["The child watches the river"] },
+
+  { "mam": "Nkub’ tb’inchin xu’j ixi’n", "es": ["La mujer prepara maíz"], "en": ["The woman prepares corn"] },
+  { "mam": "Nb’utxin xu’j ixi’n", "es": ["La mujer hierve  maíz"], "en": ["The woman boils corn"] },
+  { "mam": "Nb’inchin xu’j ixi’n", "es": ["La mujer asa maíz"], "en": ["The woman roasts corn"] },
+  { "mam": "Nche’n xu’j ti’j ixi’n", "es": ["La mujer muele maíz"], "en": ["The woman grinds corn"] },
+  { "mam": "Nsipin xu’j ixi’n", "es": ["La mujer sirve maíz"], "en": ["The woman serves corn"] },
+
+  { "mam": "In awan ichan chenaq’", "es": ["El hombre planta frijol"], "en": ["The man plants beans"] },
+  { "mam": "In ok tka’yin ichan chenaq’", "es": ["El hombre cuida frijol"], "en": ["The man takes care of the beans"] },
+  { "mam": "Nkub’ ta’lin ichan chenaq’", "es": ["El hombre riega frijol"], "en": ["The man waters the beans"] },
+  { "mam": "Njaw tiq’in ichan twitz chenaq’", "es": ["El hombre cosecha frijol"], "en": ["The man harvests the beans"] },
+  { "mam": "Njaw tb’uyin ichan chenaq’", "es": ["El hombre recoge frijol"], "en": ["The man collects the beans"] },
+
+  { "mam": "Nche’x tkolin eky’ jos", "es": ["La gallina cuida huevos"], "en": ["The hen takes care of the eggs"] },
+  { "mam": "Njayon eky’ twa", "es": ["La gallina busca comida"], "en": ["The hen looks for food"] },
+  { "mam": "Nrinin eky’", "es": ["La gallina corre"], "en": ["The hen runs"] },
+  { "mam": "Nqeqj eky’", "es": ["La gallina canta"], "en": ["The hen sings"] },
+  { "mam": "In ewin eky’","es": ["La gallina se esconde"], "en": ["The hen hides"] },
+
+  { "mam": "Nrinin tx’yan ti’j wiẍ", "es": ["El perro corre tras el gato"], "en": ["The dog runs after the cat"] },
+  { "mam": "Nchiyin tx’yan ti’j wiẍ", "es": ["El perro ladra al gato"], "en": ["The dog barks at the cat"] },
+  { "mam": "Nschan tx’yan tuk’il wiẍ", "es": ["El perro juega con el gato"], "en": ["The dog plays with the cat"] },
+  { "mam": "Nka’yin tx’yan ti’j wiẍ", "es": ["El perro observa al gato"], "en": ["The dog watches the cat"] },
+  { "mam": "Njaw lipin wiẍ tu’n tx’yan", "es": ["El perro salta al gato"], "en": ["The dog jumps on the cat"] },
+
+  { "mam": "Nchi kub’ tuk’sin txin b’ech", "es": ["La niña pinta flores"], "en": ["The girl paints flowers"] },
+  { "mam": "Nchi ok tq’o’n txin kyk’wa’ b’ech", "es": ["La niña colorea flores"], "en": ["The girl colors flowers"] },
+  { "mam": "Nka’yin txin kyi’j b’ech", "es": ["La niña observa flores"], "en": ["The girl watches the flowers"] },
+  { "mam": "Nchi jaw tjo’n txin b’ech", "es": ["La niña corta flores"], "en": ["The girl cuts the flowers"] },
+  { "mam": "Nchi kub’ tnuk’un txin b’ech", "es": ["La niña organiza flores"], "en": ["The girl arranges the flowers"] },
+
+  { "mam": "Njaw tb’uyin xu’j ixi’n", "es": ["El campesino recoge maíz"], "en": ["The farmer collects corn"] },
+  { "mam": "Njaw tk’u’n aq’unal ixi’n", "es": ["El campesino guarda maíz"], "en": ["The farmer stores corn"] },
+  { "mam": "Nk’ayin aq’unal ixi’n", "es": ["El campesino vende maíz"], "en": ["The farmer sells corn"] },
+  { "mam": "Njaw t-xtulin aq’unal ixi’n", "es": ["El campesino prepara maíz"], "en": ["The farmer prepares corn"] },
+  { "mam": "Njaw tsk’o’n aq’unal ixi’n", "es": ["El campesino limpia maíz"], "en": ["The farmer cleans corn"] },
+
+  { "mam": "Nrinin k’wal tuk’il tx’yan", "es": ["El niño corre con el perro"], "en": ["The child runs with the dog"] },
+  { "mam": "Nlipin k’wal tuk’il tx’yan", "es": ["El niño salta con el perro"], "en": ["The child jumps with the dog"] },
+  { "mam": "N-ok tchle’n k’wal tx’yan", "es": ["El niño abraza al perro"], "en": ["The child hugs the dog"] },
+  { "mam": "Nka’yin k’wal ti’j tx’yan", "es": ["El niño observa al perro"], "en": ["The child watches the dog"] },
+  { "mam": "N-ok tka’yin k’wal tx’yan", "es": ["El niño cuida al perro"], "en": ["The child takes care of the dog"] },
+
+  { "mam": "Nxilin xu’j kyi’j lob’j", "es": ["La mujer corta frutas"], "en": ["The woman cuts fruits"] },
+  { "mam": "Ntx’ajon xu’j kyi’j lob’j", "es": ["La mujer lava frutas"], "en": ["The woman washes fruits"] },
+  { "mam": "Nchi kub’ tnuk’u’n xu’j lob’j", "es": ["La mujer ordena frutas"], "en": ["The woman arranges fruits"] },
+  { "mam": "Nchi jaw tk’un xu’j lob’j", "es": ["La mujer guarda frutas"], "en": ["The woman stores fruits"] },
+  { "mam": "Nchi kub’ tb’inchin xu’j lob’j", "es": ["La mujer prepara frutas"], "en": ["The woman prepares fruits"] },
+
+  { "mam": "Nchi kub’ ttzyu’n ichan kyiẍ", "es": ["El hombre atrapa peces"], "en": ["The man catches fish"] },
+  { "mam": "Nchi ex tka’yin ichan kyiẍ", "es": ["El hombre observa peces"], "en": ["The man watches fish"] },
+  { "mam": "Nxq’uqin ichan kyi’j kyiẍ", "es": ["El hombre cuida peces"], "en": ["The man takes care of fish"] },
+  { "mam": "Ntx’ajon ichan kyi’j kyiẍ", "es": ["El hombre limpia peces"], "en": ["The man cleans fish"] },
+  { "mam": "Nchi tk’ayin ichan kyiẍ", "es": ["El hombre vende peces"], "en": ["The man sells fish"] },
+
+  { "mam": "Nimin twe’ tze", "es": ["El arbol es alto"], "en": ["The tree is tall"] },
+  { "mam": "Kuw tze", "es": ["El arbol es robusto", "El arbol es fuerte"], "en": ["The tree is robust", "The tree is strong"] },
+  { "mam": "Tb’anil tze", "es": ["El arbol es hermoso"], "en": ["The tree is beautiful"] },
+  { "mam": "Txa’x ka’yin tze", "es": ["El arbol es verde"], "en": ["The tree is green"] },
+
+  { "mam": "Ẍq’ul ka’yin twitz kya’j", "es": ["El cielo Azul"], "en": ["The sky is blue"] },
+  { "mam": "Spiky’in twitz kya’j", "es": ["El cielo es claro"], "en": ["The sky is clear"] },
+  { "mam": "Nqopin twitz kya’j", "es": ["El cielo es brillante"], "en": ["The sky is bright"] },
+  { "mam": "ẍtilin twitz kya’j", "es": ["El cielo esta limpio"], "en": ["The sky is clean"] },
+  { "mam": "Tb’anil twitz kya’j", "es": ["El cielo es hermoso"], "en": ["The sky is beautiful"] },
+
+  { "mam": "Nim pintze", "es": ["La montaña es grande"], "en": ["The mountain is big"] },
+  { "mam": "Tb’anilxix ka’yin pintze", "es": ["La montaña es majestuosa"], "en": ["The mountain is majestic"] },
+  { "mam": "Nim ab’j at toj pintze", "es": ["La montaña es rocosa"], "en": ["The mountain is rocky"] },
+  { "mam": "Txa’x ka’yin pintze", "es": ["La montaña es verde"], "en": ["The mountain is green"] },
+
+  { "mam": "Tal nuch b’ech", "es": ["La flor es pequeña"], "en": ["The flower is small"] },
+  { "mam": "Mya’ kuwxix b’ech", "es": ["La flor es delicada"], "en": ["The flower is delicate"] },
+  { "mam": "Ila’ wiq ka’yin b’ech", "es": ["La flor es colorida"], "en": ["The flower is colorful"] },
+  { "mam": "K’ok’jix b’ech", "es": ["La flor es fragante"], "en": ["The flower is fragrant"] },
+
+  { "mam": "Nim tx’yan", "es": ["El perro es grande"], "en": ["The dog is big"] },
+  { "mam": "Kuw tx’yan", "es": ["El perro es valiente", "El perro es resistente"], "en": ["The dog is brave", "The dog is resilient"] },
+  { "mam": "Sak’ tx’yan", "es": ["El perro es agil"], "en": ["The dog is agile"] },
+  { "mam": "K’asli tx’yan", "es": ["El perro es rapido"], "en": ["The dog is fast"] },
+
+  { "mam": "Nim wakx", "es": ["La vaca es grande"], "en": ["The cow is big"] },
+  { "mam": "Noq numli wakx", "es": ["La vaca es tranquila"], "en": ["The cow is calm"] },
+  { "mam": "Ku’xin wakx", "es": ["La vaca es joven"], "en": ["The cow is young"] },
+  { "mam": "Tb’anil wakx", "es": ["La vaca es suave"], "en": ["The cow is gentle"] },
+
+  { "mam": "Nim tqinil nim a’", "es": ["El rio es largo"], "en": ["The river is long"] },
+  { "mam": "Ojqel tel nim a’", "es": ["El rio es rapido"], "en": ["The river is fast"] },
+  { "mam": "Nim tqan nim a’", "es": ["El rio es caudaloso"], "en": ["The river is flowing"] },
+
+  { "mam": "Spiky’in tten qtxu xjaw", "es": ["La luna es clara"], "en": ["The moon is clear"] },
+  { "mam": "Nqopin tqan qtxu xjaw", "es": ["La luna es luminosa"], "en": ["The moon is bright"] },
+  { "mam": "Saq ka’yin qtxu xjaw", "es": ["La luna es blanca"], "en": ["The moon is white"] },
+
+  { "mam": "Tij twitz ixi’n", "es": ["El maíz es maduro"], "en": ["The corn is ripe"] },
+  { "mam": "Nim twitz ixi’n", "es": ["El maíz es grande"], "en": ["The corn is big"] },
+  { "mam": "Chi’ twitz ixi’n", "es": ["El maíz es dulce"], "en": ["The corn is sweet"] },
+  { "mam": "Niky’b’eb’il twitz ixi’n", "es": ["El maíz es nutritivo"], "en": ["The corn is nutritious"] },
+  { "mam": "Tb’anil twitz ixi’n", "es": ["El maíz es hermoso"], "en": ["The corn is beautiful"] }
+  
+]

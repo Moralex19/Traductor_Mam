@@ -1,0 +1,14 @@
+# Xcode gitignore
+# Build folders
+build/
+DerivedData/
+
+# User-specific Xcode settings
+*.xcuserdatad
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.noindex
+
+# OS files
+.DS_Store
